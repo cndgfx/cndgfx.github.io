@@ -1726,6 +1726,132 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "Malekan",
+        "name": "Malekan",
+        "icon": "Explosion",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 12,
+          "halo": "#f2f3f0",
+          "enabled": false
+        },
+        "rotate": 0,
+        "locked": false,
+        "tooltip": {
+          "enabled": true,
+          "text": ""
+        },
+        "groupId": "fUJ3hmrDXA",
+        "marker-size": 0.8,
+        "marker-color": "#a5091e",
+        "description": "",
+        "marker-symbol": "",
+        "color": "#a5091e",
+        "group": "fUJ3hmrDXA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.1056025,
+          37.1432315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Dehloran",
+        "name": "Dehloran",
+        "icon": "Explosion",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 12,
+          "halo": "#f2f3f0",
+          "enabled": false
+        },
+        "rotate": 0,
+        "locked": false,
+        "tooltip": {
+          "enabled": true,
+          "text": ""
+        },
+        "groupId": "fUJ3hmrDXA",
+        "marker-size": 0.8,
+        "marker-color": "#a5091e",
+        "description": "",
+        "marker-symbol": "",
+        "color": "#a5091e",
+        "group": "fUJ3hmrDXA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2674712,
+          32.6914932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ilam",
+        "name": "Ilam",
+        "icon": "Explosion",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 12,
+          "halo": "#f2f3f0",
+          "enabled": false
+        },
+        "rotate": 0,
+        "locked": false,
+        "tooltip": {
+          "enabled": true,
+          "text": ""
+        },
+        "groupId": "fUJ3hmrDXA",
+        "marker-size": 0.8,
+        "marker-color": "#a5091e",
+        "description": "",
+        "marker-symbol": "",
+        "color": "#a5091e",
+        "group": "fUJ3hmrDXA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.4202743,
+          33.6379365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "Heydar Karrar base in Absard",
         "name": "Heydar Karrar base in Absard",
         "icon": "Explosion",
