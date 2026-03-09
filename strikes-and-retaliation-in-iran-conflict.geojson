@@ -1459,7 +1459,7 @@
         "rotate": 0,
         "locked": false,
         "tooltip": {
-          "enabled": false,
+          "enabled": true,
           "text": ""
         },
         "groupId": "ZxPz3fVYG8",
@@ -1500,7 +1500,7 @@
         "rotate": 0,
         "locked": false,
         "tooltip": {
-          "enabled": false,
+          "enabled": true,
           "text": ""
         },
         "groupId": "ZxPz3fVYG8",
@@ -1541,7 +1541,7 @@
         "rotate": 0,
         "locked": false,
         "tooltip": {
-          "enabled": false,
+          "enabled": true,
           "text": ""
         },
         "groupId": "ZxPz3fVYG8",
@@ -1664,7 +1664,7 @@
         "rotate": 0,
         "locked": false,
         "tooltip": {
-          "enabled": false,
+          "enabled": true,
           "text": ""
         },
         "groupId": "ZxPz3fVYG8",
@@ -1720,6 +1720,252 @@
         "coordinates": [
           46.1056025,
           37.1432315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hasan Abad missile base",
+        "name": "",
+        "icon": "blast-red",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 12,
+          "halo": "#f2f3f0",
+          "enabled": false
+        },
+        "rotate": 0,
+        "locked": false,
+        "tooltip": {
+          "enabled": true,
+          "text": ""
+        },
+        "groupId": "fUJ3hmrDXA",
+        "marker-size": 0.8,
+        "marker-color": "#a5091e",
+        "description": "",
+        "marker-symbol": "",
+        "group": "blast-red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.0708408,
+          36.2969817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Isfahan 4th Artesh Base",
+        "name": "Esfahan 4th Artesh Ground Forces Aviation Base",
+        "icon": "blast-red",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 12,
+          "halo": "#f2f3f0",
+          "enabled": false
+        },
+        "rotate": 0,
+        "locked": false,
+        "tooltip": {
+          "enabled": true,
+          "text": ""
+        },
+        "groupId": "fUJ3hmrDXA",
+        "marker-size": 0.8,
+        "marker-color": "#a5091e",
+        "description": "",
+        "marker-symbol": "",
+        "group": "blast-red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.684,
+          32.6222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ravansar",
+        "name": "",
+        "icon": "blast-red",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 12,
+          "halo": "#f2f3f0",
+          "enabled": false
+        },
+        "rotate": 0,
+        "locked": false,
+        "tooltip": {
+          "enabled": true,
+          "text": ""
+        },
+        "groupId": "fUJ3hmrDXA",
+        "marker-size": 0.8,
+        "marker-color": "#a5091e",
+        "description": "",
+        "marker-symbol": "",
+        "group": "blast-red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6508369,
+          34.7161309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Eslamabad-e Gharb",
+        "name": "",
+        "icon": "blast-red",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 12,
+          "halo": "#f2f3f0",
+          "enabled": false
+        },
+        "rotate": 0,
+        "locked": false,
+        "tooltip": {
+          "enabled": true,
+          "text": ""
+        },
+        "groupId": "fUJ3hmrDXA",
+        "marker-size": 0.8,
+        "marker-color": "#a5091e",
+        "description": "",
+        "marker-symbol": "",
+        "group": "blast-red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.5257463,
+          34.1132923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Baghein",
+        "name": "",
+        "icon": "blast-red",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 12,
+          "halo": "#f2f3f0",
+          "enabled": false
+        },
+        "rotate": 0,
+        "locked": false,
+        "tooltip": {
+          "enabled": true,
+          "text": ""
+        },
+        "groupId": "fUJ3hmrDXA",
+        "marker-size": 0.8,
+        "marker-color": "#a5091e",
+        "description": "",
+        "marker-symbol": "",
+        "group": "blast-red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.8176548,
+          30.187107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Ahwaz",
+        "name": "",
+        "icon": "blast-red",
+        "anchor": "bottom-center",
+        "offsetY": 0,
+        "offsetX": 0,
+        "labelStyle": "plain",
+        "text": {
+          "bold": false,
+          "italic": false,
+          "uppercase": false,
+          "space": false,
+          "color": "#333333",
+          "fontSize": 12,
+          "halo": "#f2f3f0",
+          "enabled": false
+        },
+        "rotate": 0,
+        "locked": false,
+        "tooltip": {
+          "enabled": true,
+          "text": ""
+        },
+        "groupId": "fUJ3hmrDXA",
+        "marker-size": 0.8,
+        "marker-color": "#a5091e",
+        "description": "",
+        "marker-symbol": "",
+        "group": "blast-red"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.67932,
+          31.3230637
         ]
       }
     },
@@ -1869,7 +2115,7 @@
         "rotate": 0,
         "locked": false,
         "tooltip": {
-          "enabled": false,
+          "enabled": true,
           "text": ""
         },
         "groupId": "fUJ3hmrDXA",
@@ -1951,7 +2197,7 @@
         "rotate": 0,
         "locked": false,
         "tooltip": {
-          "enabled": false,
+          "enabled": true,
           "text": ""
         },
         "groupId": "fUJ3hmrDXA",
@@ -3591,7 +3837,7 @@
         "rotate": 0,
         "locked": false,
         "tooltip": {
-          "enabled": false,
+          "enabled": true,
           "text": ""
         },
         "groupId": "fUJ3hmrDXA",
@@ -3632,7 +3878,7 @@
         "rotate": 0,
         "locked": false,
         "tooltip": {
-          "enabled": false,
+          "enabled": true,
           "text": ""
         },
         "groupId": "fUJ3hmrDXA",
@@ -3837,7 +4083,7 @@
         "rotate": 0,
         "locked": false,
         "tooltip": {
-          "enabled": false,
+          "enabled": true,
           "text": ""
         },
         "groupId": "fUJ3hmrDXA",
@@ -3878,7 +4124,7 @@
         "rotate": 0,
         "locked": false,
         "tooltip": {
-          "enabled": false,
+          "enabled": true,
           "text": ""
         },
         "groupId": "fUJ3hmrDXA",
