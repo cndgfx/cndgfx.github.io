@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "title": "Tyre",
-        "name": "Tyre",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-green",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -32,8 +32,7 @@
         "marker-color": "#00962e",
         "description": "",
         "marker-symbol": "",
-        "color": "#00962e",
-        "group": "CT36dwcFi8"
+        "group": "blast-green"
       },
       "geometry": {
         "type": "Point",
@@ -47,8 +46,8 @@
       "type": "Feature",
       "properties": {
         "title": "Beirut",
-        "name": "Beirut",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-green",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -74,8 +73,7 @@
         "marker-color": "#00962e",
         "description": "",
         "marker-symbol": "",
-        "color": "#00962e",
-        "group": "CT36dwcFi8"
+        "group": "blast-green"
       },
       "geometry": {
         "type": "Point",
@@ -89,8 +87,8 @@
       "type": "Feature",
       "properties": {
         "title": "Sidon",
-        "name": "Sidon",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-green",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -116,8 +114,7 @@
         "marker-color": "#00962e",
         "description": "",
         "marker-symbol": "",
-        "color": "#00962e",
-        "group": "CT36dwcFi8"
+        "group": "blast-green"
       },
       "geometry": {
         "type": "Point",
@@ -131,8 +128,8 @@
       "type": "Feature",
       "properties": {
         "title": "Khor al-Zubair",
-        "name": "Khor al-Zubair",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -158,8 +155,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -173,8 +169,8 @@
       "type": "Feature",
       "properties": {
         "title": "Ali Al Salem Air Base\nSabah Al Salem Al Sabah Street\nKuwait",
-        "name": "Ali Al Salem Air Base\nSabah Al Salem Al Sabah Street\nKuwait",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -200,8 +196,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -215,8 +210,8 @@
       "type": "Feature",
       "properties": {
         "title": "Al-Qamishli",
-        "name": "Al-Qamishli",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -242,8 +237,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -257,8 +251,8 @@
       "type": "Feature",
       "properties": {
         "title": "Umm Dahal",
-        "name": "Umm Dahal",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -284,8 +278,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -299,8 +292,8 @@
       "type": "Feature",
       "properties": {
         "title": "Be'er Sheva",
-        "name": "Be'er Sheva",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -326,8 +319,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -341,8 +333,8 @@
       "type": "Feature",
       "properties": {
         "title": "Jerusalem",
-        "name": "Jerusalem",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -368,8 +360,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -383,8 +374,8 @@
       "type": "Feature",
       "properties": {
         "title": "Fujairah Emirate\nUnited Arab Emirates",
-        "name": "Fujairah Emirate\nUnited Arab Emirates",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -410,8 +401,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -425,8 +415,8 @@
       "type": "Feature",
       "properties": {
         "title": "Baghdad",
-        "name": "Baghdad",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -452,8 +442,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -467,8 +456,8 @@
       "type": "Feature",
       "properties": {
         "title": "Nasiriyah",
-        "name": "Nasiriyah",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -494,8 +483,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -509,8 +497,8 @@
       "type": "Feature",
       "properties": {
         "title": "Dhahran",
-        "name": "Dhahran",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -536,8 +524,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -551,8 +538,8 @@
       "type": "Feature",
       "properties": {
         "title": "Al Wukair",
-        "name": "Al Wukair",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -578,8 +565,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -593,8 +579,8 @@
       "type": "Feature",
       "properties": {
         "title": "Suwayda",
-        "name": "Suwayda",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -620,8 +606,7 @@
         "marker-color": "#58358c",
         "description": "Suwayda",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -635,8 +620,8 @@
       "type": "Feature",
       "properties": {
         "title": "RAF Akrotiri Air Base",
-        "name": "RAF Akrotiri Air Base",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "top-center",
         "offsetY": 3,
         "offsetX": 23,
@@ -662,8 +647,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -677,8 +661,8 @@
       "type": "Feature",
       "properties": {
         "title": "Ras Al Khaimah",
-        "name": "Ras Al Khaimah",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -704,8 +688,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -719,8 +702,8 @@
       "type": "Feature",
       "properties": {
         "title": "Ras Tanura",
-        "name": "Ras Tanura",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -746,8 +729,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -761,8 +743,8 @@
       "type": "Feature",
       "properties": {
         "title": "Beit Shemesh",
-        "name": "Beit Shemesh",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -788,8 +770,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -803,8 +784,8 @@
       "type": "Feature",
       "properties": {
         "title": "Tel-Aviv",
-        "name": "Tel-Aviv",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -830,8 +811,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -845,8 +825,8 @@
       "type": "Feature",
       "properties": {
         "title": "Dubai International Airport",
-        "name": "Dubai International Airport",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -872,8 +852,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -887,8 +866,8 @@
       "type": "Feature",
       "properties": {
         "title": "Dubai",
-        "name": "Dubai",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -914,8 +893,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -929,8 +907,8 @@
       "type": "Feature",
       "properties": {
         "title": "Doha",
-        "name": "Doha",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -956,8 +934,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -971,8 +948,8 @@
       "type": "Feature",
       "properties": {
         "title": "Al Wukair",
-        "name": "Al Wukair",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -998,8 +975,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1013,8 +989,8 @@
       "type": "Feature",
       "properties": {
         "title": "Erbil International Airport",
-        "name": "Erbil International Airport",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1040,8 +1016,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1055,8 +1030,8 @@
       "type": "Feature",
       "properties": {
         "title": "Erbil",
-        "name": "Erbil",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": -5,
         "offsetX": 0,
@@ -1082,8 +1057,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1097,8 +1071,8 @@
       "type": "Feature",
       "properties": {
         "title": "Irbid",
-        "name": "Irbid",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1124,8 +1098,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1139,8 +1112,8 @@
       "type": "Feature",
       "properties": {
         "title": "Azraq",
-        "name": "Azraq",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1166,8 +1139,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1181,8 +1153,8 @@
       "type": "Feature",
       "properties": {
         "title": "Amman",
-        "name": "Amman",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1208,8 +1180,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1223,8 +1194,8 @@
       "type": "Feature",
       "properties": {
         "title": "Kuwait City",
-        "name": "Kuwait City",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1250,8 +1221,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1265,8 +1235,8 @@
       "type": "Feature",
       "properties": {
         "title": "Kuwait International Airport",
-        "name": "Kuwait International Airport",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1292,8 +1262,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1307,8 +1276,8 @@
       "type": "Feature",
       "properties": {
         "title": "Hadiya",
-        "name": "Hadiya",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1334,8 +1303,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1349,8 +1317,8 @@
       "type": "Feature",
       "properties": {
         "title": "Manama",
-        "name": "Manama",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1376,8 +1344,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1391,8 +1358,8 @@
       "type": "Feature",
       "properties": {
         "title": "Duqm",
-        "name": "Duqm",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": -5,
         "offsetX": 0,
@@ -1418,8 +1385,7 @@
         "marker-color": "#58358c",
         "description": "Duqm Port, Oman",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1433,8 +1399,8 @@
       "type": "Feature",
       "properties": {
         "title": "Nakhichevan Airport",
-        "name": "Nakhichevan Airport",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1460,8 +1426,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1475,8 +1440,8 @@
       "type": "Feature",
       "properties": {
         "title": "Riyadh",
-        "name": "Riyadh",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "middle-left",
         "offsetY": 0,
         "offsetX": 0,
@@ -1502,8 +1467,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1517,8 +1481,8 @@
       "type": "Feature",
       "properties": {
         "title": "Al Kharj",
-        "name": "Al Kharj",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1544,8 +1508,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1559,8 +1522,8 @@
       "type": "Feature",
       "properties": {
         "title": "Salalah",
-        "name": "Salalah",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1586,8 +1549,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1601,8 +1563,8 @@
       "type": "Feature",
       "properties": {
         "title": "Camp Buehring",
-        "name": "Camp Buehring",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1628,8 +1590,7 @@
         "marker-color": "#58358c",
         "description": "Camp Buehring U.S. Army Staging point",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1643,8 +1604,8 @@
       "type": "Feature",
       "properties": {
         "title": "Ma'ameer",
-        "name": "Ma'ameer",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1670,8 +1631,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1685,8 +1645,8 @@
       "type": "Feature",
       "properties": {
         "title": "Nakhchivan",
-        "name": "Nakhchivan",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-purple",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1712,8 +1672,7 @@
         "marker-color": "#58358c",
         "description": "",
         "marker-symbol": "",
-        "color": "#58358c",
-        "group": "ZxPz3fVYG8"
+        "group": "blast-purple"
       },
       "geometry": {
         "type": "Point",
@@ -1727,8 +1686,8 @@
       "type": "Feature",
       "properties": {
         "title": "Malekan",
-        "name": "Malekan",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1754,8 +1713,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -1769,8 +1727,8 @@
       "type": "Feature",
       "properties": {
         "title": "Dehloran",
-        "name": "Dehloran",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1796,8 +1754,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -1811,8 +1768,8 @@
       "type": "Feature",
       "properties": {
         "title": "Ilam",
-        "name": "Ilam",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1838,8 +1795,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -1853,8 +1809,8 @@
       "type": "Feature",
       "properties": {
         "title": "Heydar Karrar base in Absard",
-        "name": "Heydar Karrar base in Absard",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1880,8 +1836,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -1895,8 +1850,8 @@
       "type": "Feature",
       "properties": {
         "title": "Karaj",
-        "name": "Karaj",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1922,8 +1877,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -1937,8 +1891,8 @@
       "type": "Feature",
       "properties": {
         "title": "Haji Abad",
-        "name": "Haji Abad",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -1964,8 +1918,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -1979,8 +1932,8 @@
       "type": "Feature",
       "properties": {
         "title": "Sanandaj",
-        "name": "Sanandaj",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -2006,8 +1959,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2021,8 +1973,8 @@
       "type": "Feature",
       "properties": {
         "title": "Garmdareh",
-        "name": "Garmdareh",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -2048,8 +2000,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2063,8 +2014,8 @@
       "type": "Feature",
       "properties": {
         "title": "Mellat Park",
-        "name": "Mellat Park",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -2090,8 +2041,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2105,8 +2055,8 @@
       "type": "Feature",
       "properties": {
         "title": "Narmak area of Tehran",
-        "name": "Narmak area of Tehran",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -2132,8 +2082,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2147,8 +2096,8 @@
       "type": "Feature",
       "properties": {
         "title": "Zahedan",
-        "name": "Zahedan",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": -3,
         "offsetX": 0,
@@ -2174,8 +2123,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2189,8 +2137,8 @@
       "type": "Feature",
       "properties": {
         "title": "Zanjan",
-        "name": "Zanjan",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "top-right",
         "offsetY": 16,
         "offsetX": -8,
@@ -2216,8 +2164,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2231,8 +2178,8 @@
       "type": "Feature",
       "properties": {
         "title": "Konarak",
-        "name": "Konarak",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -2258,8 +2205,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2273,8 +2219,8 @@
       "type": "Feature",
       "properties": {
         "title": "Sahand",
-        "name": "Sahand",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -2300,8 +2246,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2315,8 +2260,8 @@
       "type": "Feature",
       "properties": {
         "title": "Urmia",
-        "name": "Urmia",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "middle-left",
         "offsetY": 0,
         "offsetX": 0,
@@ -2342,8 +2287,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2357,8 +2301,8 @@
       "type": "Feature",
       "properties": {
         "title": "Nahavand",
-        "name": "Nahavand",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-left",
         "offsetY": -8,
         "offsetX": -12,
@@ -2384,8 +2328,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2399,8 +2342,8 @@
       "type": "Feature",
       "properties": {
         "title": "Chabahar",
-        "name": "Chabahar",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -2426,8 +2369,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2441,8 +2383,8 @@
       "type": "Feature",
       "properties": {
         "title": "Kangan",
-        "name": "Kangan",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "middle-left",
         "offsetY": 0,
         "offsetX": 5,
@@ -2468,8 +2410,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2484,7 +2425,7 @@
       "properties": {
         "title": "Asaluyeh",
         "name": "Asaluyeh",
-        "icon": "Explosion",
+        "icon": "blast-red",
         "anchor": "middle-right",
         "offsetY": 0,
         "offsetX": -9,
@@ -2510,8 +2451,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2525,8 +2465,8 @@
       "type": "Feature",
       "properties": {
         "title": "Kharg Island",
-        "name": "Kharg Island",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "top-center",
         "offsetY": 7,
         "offsetX": 0,
@@ -2552,8 +2492,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2567,8 +2506,8 @@
       "type": "Feature",
       "properties": {
         "title": "Kangavar",
-        "name": "Kangavar",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "top-left",
         "offsetY": -8,
         "offsetX": -14,
@@ -2594,8 +2533,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2609,8 +2547,8 @@
       "type": "Feature",
       "properties": {
         "title": "Khorramabad",
-        "name": "Khorramabad",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-left",
         "offsetY": -7,
         "offsetX": 16,
@@ -2636,8 +2574,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2651,8 +2588,8 @@
       "type": "Feature",
       "properties": {
         "title": "Isfahan",
-        "name": "Isfahan",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "middle-left",
         "offsetY": 0,
         "offsetX": 5,
@@ -2678,8 +2615,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2693,8 +2629,8 @@
       "type": "Feature",
       "properties": {
         "title": "Karaj",
-        "name": "Karaj",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "middle-left",
         "offsetY": 0,
         "offsetX": 0,
@@ -2720,8 +2656,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2735,8 +2670,8 @@
       "type": "Feature",
       "properties": {
         "title": "Qom",
-        "name": "Qom",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "top-left",
         "offsetY": 16,
         "offsetX": 6,
@@ -2762,8 +2697,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2777,8 +2711,8 @@
       "type": "Feature",
       "properties": {
         "title": "Tabriz",
-        "name": "Tabriz",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "middle-right",
         "offsetY": 0,
         "offsetX": -5,
@@ -2804,8 +2738,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2819,8 +2752,8 @@
       "type": "Feature",
       "properties": {
         "title": "<b>Tehran</b>",
-        "name": "<b>Tehran</b>",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "middle-right",
         "offsetY": 0,
         "offsetX": -4,
@@ -2846,8 +2779,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2861,8 +2793,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bandar Abbas",
-        "name": "Bandar Abbas",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -2888,8 +2820,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2903,8 +2834,8 @@
       "type": "Feature",
       "properties": {
         "title": "Kermanshah",
-        "name": "Kermanshah",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "middle-left",
         "offsetY": 0,
         "offsetX": 5,
@@ -2930,8 +2861,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2945,8 +2875,8 @@
       "type": "Feature",
       "properties": {
         "title": "Kish Island",
-        "name": "Kish Island",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -2972,8 +2902,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -2987,8 +2916,8 @@
       "type": "Feature",
       "properties": {
         "title": "Kheyr Abad",
-        "name": "Kheyr Abad",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3014,8 +2943,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3029,8 +2957,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bushehr",
-        "name": "Bushehr",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "middle-right",
         "offsetY": 5,
         "offsetX": -7,
@@ -3056,8 +2984,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3071,8 +2998,8 @@
       "type": "Feature",
       "properties": {
         "title": "Mīnāb",
-        "name": "Mīnāb",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "middle-right",
         "offsetY": 0,
         "offsetX": -5,
@@ -3098,8 +3025,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3113,8 +3039,8 @@
       "type": "Feature",
       "properties": {
         "title": "Shiraz",
-        "name": "Shiraz",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "middle-right",
         "offsetY": 0,
         "offsetX": -5,
@@ -3140,8 +3066,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3155,8 +3080,8 @@
       "type": "Feature",
       "properties": {
         "title": "Natanz",
-        "name": "Natanz",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3182,8 +3107,7 @@
         "marker-color": "#a5091e",
         "description": "Natanz",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3197,8 +3121,8 @@
       "type": "Feature",
       "properties": {
         "title": "Hajj Aqa",
-        "name": "Hajj Aqa",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3224,8 +3148,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3239,8 +3162,8 @@
       "type": "Feature",
       "properties": {
         "title": "Khowrgū",
-        "name": "Khowrgū",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3266,8 +3189,7 @@
         "marker-color": "#a5091e",
         "description": "Khowrgū",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3281,8 +3203,8 @@
       "type": "Feature",
       "properties": {
         "title": "Kerman",
-        "name": "Kerman",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "top-right",
         "offsetY": 8,
         "offsetX": -9,
@@ -3308,8 +3230,7 @@
         "marker-color": "#a5091e",
         "description": "Kerman",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3323,8 +3244,8 @@
       "type": "Feature",
       "properties": {
         "title": "Khomeini International Airport",
-        "name": "Khomeini International Airport",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3350,8 +3271,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3365,8 +3285,8 @@
       "type": "Feature",
       "properties": {
         "title": "Damavand",
-        "name": "Damavand",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3392,8 +3312,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3407,8 +3326,8 @@
       "type": "Feature",
       "properties": {
         "title": "Bandar-e-Jask",
-        "name": "Bandar-e-Jask",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3434,8 +3353,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3449,8 +3367,8 @@
       "type": "Feature",
       "properties": {
         "title": "Maragheh",
-        "name": "Maragheh",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3476,8 +3394,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3491,8 +3408,8 @@
       "type": "Feature",
       "properties": {
         "title": "Chalus",
-        "name": "Chalus",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3518,8 +3435,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3533,8 +3449,8 @@
       "type": "Feature",
       "properties": {
         "title": "Hamedan",
-        "name": "Hamedan",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3560,8 +3476,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3575,8 +3490,8 @@
       "type": "Feature",
       "properties": {
         "title": "Yazd",
-        "name": "Yazd",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3602,8 +3517,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3617,8 +3531,8 @@
       "type": "Feature",
       "properties": {
         "title": "Dayyer Port",
-        "name": "Dayyer Port",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3644,8 +3558,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3659,8 +3572,8 @@
       "type": "Feature",
       "properties": {
         "title": "Kashan",
-        "name": "Kashan",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3686,8 +3599,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3701,8 +3613,8 @@
       "type": "Feature",
       "properties": {
         "title": "Mahabad",
-        "name": "Mahabad",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3728,8 +3640,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3743,8 +3654,8 @@
       "type": "Feature",
       "properties": {
         "title": "Jam City",
-        "name": "Jam City",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3770,8 +3681,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3785,8 +3695,8 @@
       "type": "Feature",
       "properties": {
         "title": "Lamerd",
-        "name": "Lamerd",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3812,8 +3722,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3827,8 +3736,8 @@
       "type": "Feature",
       "properties": {
         "title": "Lar",
-        "name": "Lar",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3854,8 +3763,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3869,8 +3777,8 @@
       "type": "Feature",
       "properties": {
         "title": "Marivan",
-        "name": "Marivan",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -3896,8 +3804,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3911,8 +3818,8 @@
       "type": "Feature",
       "properties": {
         "title": "Shahriyar",
-        "name": "Shahriyar",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-left",
         "offsetY": -8,
         "offsetX": -12,
@@ -3938,8 +3845,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3953,8 +3859,8 @@
       "type": "Feature",
       "properties": {
         "title": "Dezful",
-        "name": "Dezful",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-left",
         "offsetY": -8,
         "offsetX": -12,
@@ -3980,8 +3886,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -3995,8 +3900,8 @@
       "type": "Feature",
       "properties": {
         "title": "Fars",
-        "name": "Fars",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -4022,8 +3927,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -4037,8 +3941,8 @@
       "type": "Feature",
       "properties": {
         "title": "Imam Sajjad",
-        "name": "Imam Sajjad",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-red",
         "anchor": "bottom-center",
         "offsetY": 0,
         "offsetX": 0,
@@ -4064,8 +3968,7 @@
         "marker-color": "#a5091e",
         "description": "",
         "marker-symbol": "",
-        "color": "#a5091e",
-        "group": "fUJ3hmrDXA"
+        "group": "blast-red"
       },
       "geometry": {
         "type": "Point",
@@ -4079,8 +3982,8 @@
       "type": "Feature",
       "properties": {
         "title": "Natanz",
-        "name": "Natanz",
-        "icon": "Explosion",
+        "name": ", ",
+        "icon": "blast-blue",
         "anchor": "middle-right",
         "offsetY": 0,
         "offsetX": -3,
@@ -4106,8 +4009,7 @@
         "marker-color": "#0281fe",
         "description": "",
         "marker-symbol": "",
-        "color": "#0281fe",
-        "group": "3YD986KGz7"
+        "group": "blast-blue"
       },
       "geometry": {
         "type": "Point",
@@ -4121,8 +4023,8 @@
       "type": "Feature",
       "properties": {
         "title": "Isfahan",
-        "name": "Isfahan",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-blue",
         "anchor": "bottom-center",
         "offsetY": 50,
         "offsetX": 0,
@@ -4148,8 +4050,7 @@
         "marker-color": "#0281fe",
         "description": "",
         "marker-symbol": "",
-        "color": "#0281fe",
-        "group": "3YD986KGz7"
+        "group": "blast-blue"
       },
       "geometry": {
         "type": "Point",
@@ -4163,8 +4064,8 @@
       "type": "Feature",
       "properties": {
         "title": "Fordow",
-        "name": "Fordow",
-        "icon": "Explosion",
+        "name": "",
+        "icon": "blast-blue",
         "anchor": "middle-right",
         "offsetY": 0,
         "offsetX": -3,
@@ -4190,8 +4091,7 @@
         "marker-color": "#0281fe",
         "description": "",
         "marker-symbol": "",
-        "color": "#0281fe",
-        "group": "3YD986KGz7"
+        "group": "blast-blue"
       },
       "geometry": {
         "type": "Point",
